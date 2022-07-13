@@ -46,8 +46,8 @@ for Respiration Rate
 for SpO2 Oxygen level
 
 
-**Usage including the face detection algorithm**,
-for heart rate:
+###Usage including the face detection algorithm
+GUI for heart rate:
   ```
       run "hr-face.py"  
   ```
