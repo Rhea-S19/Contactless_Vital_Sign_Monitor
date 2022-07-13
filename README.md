@@ -44,3 +44,9 @@ for Respiration Rate
       run "main-s.py"  
   ```
 for SpO2 Oxygen level
+
+Usage including the face detection algorithm,
+for heart rate:
+  ```
+      run "hr-face.py"  
+  ```
